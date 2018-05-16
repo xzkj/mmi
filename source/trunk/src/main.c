@@ -10,4 +10,6 @@ void main(void)
 	printf("I do remote prune\n");
 
 	printf("now Modify at huang Branch\n");
+        printf("换上手工合并的版本\n");
+
 }
